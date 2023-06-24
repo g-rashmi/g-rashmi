@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **HTML,CSS ,JS ,DSA,C ,,C++,OOPS,DBMS**
+- 💬 Ask me about **HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS**
 
 - 📫 How to reach me **rashmi.gupta7018@gmail.com**
 
