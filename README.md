@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rashmi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gehiv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gehiv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/g_rashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g_rashmi" height="30" width="40" /> </a>
-<a href="https://auth.geeksforgeeks.org/user/gehiv/https://auth.geeksforgeeks.org/user/gehiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gehiv/https://auth.geeksforgeeks.org/user/gehiv" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gehiv/practice/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gehiv/https://auth.geeksforgeeks.org/user/gehiv" height="30" width="40" /></a>
 <a href="https://discord.gg/gehiv#0394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gehiv#0394" height="30" width="40" /></a>
 </p>
 
