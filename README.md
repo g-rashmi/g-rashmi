@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-rashmi&label=Profile%20views&color=0e75b6&style=flat" alt="g-rashmi" /> </p>
 
-- 🔭 I’m currently working on **student management system**
+- 🔭 I’m currently working on **Student Management System**
 
 - 🌱 I’m currently learning **PHP**
 
