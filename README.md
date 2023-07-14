@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rashmi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rashmi-gupta-781021226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi gupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gehiv" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="gehiv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/g_rashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="g_rashmi" height="30" width="40" /> </a>
 <a href="https://auth.geeksforgeeks.org/user/gehiv/practice/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gehiv/https://auth.geeksforgeeks.org/user/gehiv" height="30" width="40" /></a>
