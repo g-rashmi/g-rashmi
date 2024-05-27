@@ -6,11 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-rashmi&label=Profile%20views&color=0e75b6&style=flat" alt="g-rashmi" /> </p>
 
-- 🔭 I’m currently working on **FULL STACK BLOG WEB APPLICATION USING REACT AND FIREBASE**
+- 🔭 I’m currently working on **FULL STACK BLOG WEB APPLICATION USING REACT
+-  AND FIREBASE**
 
-- 🌱 I’m currently learning *GO**
+- 🌱 I’m currently learning *GO*
 
-- 💬 Ask me about **REACT , FIREBASE , GO , NODEJS , EXPRESS.JS , MONGODB , SQL, HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS , **
+- 💬 Ask me about *REACT , FIREBASE , GO , NODEJS , EXPRESS.JS , MONGODB , SQL, HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS*
 
 - 📫 How to reach me **rashmi.gupta7018@gmail.com**
 
