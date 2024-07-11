@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *GO*
 
-- 💬 Ask me about *REACT , FIREBASE , GO , NODEJS , EXPRESS.JS , MONGODB , SQL, HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS*
+- 💬 Ask me about *REACT , FIREBASE , GO , NODEJS , EXPRESS.JS , MONGODB ,Cloudflare,docker ,POSTGRES,PRISMA, SQL, HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS*
 
 - 📫 How to reach me **rashmi.gupta7018@gmail.com**
 
