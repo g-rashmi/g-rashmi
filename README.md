@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning *GO*
 
 - 💬 Ask me about *REACT , FIREBASE , GO , NODEJS , EXPRESS.JS , MONGODB ,Cloudflare,docker ,POSTGRES,PRISMA, SQL, HTML , CSS , JS , DSA , C , C++ , OOPS , DBMS*
-- <a href="https://drive.google.com/file/d/1JLu8D84Lsf-sQJ98BPKlAw9F8cYTXQFp/view?usp=drivesdk"> My Resume </a>
 - 📫 How to reach me **rashmi.gupta7018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
