@@ -10,7 +10,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=g-rashmi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-<img align="right" width="260" style="margin-top: -10px; border-radius: 10px;"
+<img align="right" width="360" style="margin-top:1px, border-radius: 10px "
      src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 <ul>
