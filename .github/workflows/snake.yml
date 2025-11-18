@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # IMPORTANT
 
       - name: Generate GitHub Contribution Snake Animation
         uses: Platane/snk@v3
@@ -23,6 +25,7 @@ jobs:
       - name: Commit and Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          pull: true
           add: "output"
+          pull: true
           message: "Updated snake animation"
+          token: ${{ secrets.GITHUB_TOKEN }}   # IMPORTANT
