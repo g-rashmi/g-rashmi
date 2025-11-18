@@ -31,9 +31,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-rashmi&" alt="g-rashmi" /></p>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-rashmi/g-rashmi/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-rashmi/g-rashmi/output/snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/g-rashmi/g-rashmi/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-rashmi/g-rashmi/main/dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-rashmi/g-rashmi/main/dist/snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/g-rashmi/g-rashmi/main/dist/snake.svg">
   </picture>
 </div>
+
 
