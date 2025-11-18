@@ -7,22 +7,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Contribution Snake
-    steps:
-      - name: Checkout repo
-      uses: actions/checkout@v3
 
-      - name: Generate Snake
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: g-rashmi
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
 
-      - name: Push generated files
+      - name: Commit and Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          pull: true              # ← IMPORTANT FIX
-          message: "Generated snake animation"
-          add: "dist"
+          pull: true
+          add: "output"
+          message: "Updated snake animation"
